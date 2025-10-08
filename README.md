@@ -3,12 +3,19 @@
 ## Hierarquia dos módulos
 
 gaaplib/
+
 │
+
 ├─ io/		→ Entrada e saída de dados
+
 ├─ table/	→ Manipulação e formatação de tabelas
+
 ├─ plot/	→ Geração padronizada de gráficos
+
 ├─ text/	→ Geração de citações, LaTeX e relatórios
+
 ├─ project/	→ Organização, automação e logs
+
 └─ utils/	→ Funções auxiliares e conveniências gerais
 
 
