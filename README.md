@@ -123,7 +123,7 @@ Agrupar pequenas ferramentas que melhoram a produtividade e a consistência dos 
 
 - *random_seed(seed=None)*: Define e registra a semente aleatória para garantir reprodutibilidade.
 
-  ## Módulo 7 - imlatex
+## Módulo 7 - imlatex
 
 Acomodar em documentos *latex* imagens. 
 
@@ -135,10 +135,16 @@ Acomodar em documentos *latex* imagens.
 
 - mais ideias?
 
-  ## Módulo 8
+## Módulo 8 - url
+
+- *QRcode_generator(string1, string2)*: Função que recebe uma string (link para um site) e retorna um QRCode com a extensão de imagem pedida pelo usuário. 
+
+- *short_link(string)*: Função que recebe um link e retorna o mesmo mais curto.
+
+-  mais ideias?
 
 
-  ## Módulo 9
+## Módulo 9 
 
 
   
