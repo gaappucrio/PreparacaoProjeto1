@@ -122,3 +122,23 @@ Agrupar pequenas ferramentas que melhoram a produtividade e a consistência dos 
 - *standardize_filename(name, prefix='exp', ext='.csv',timestamp=True)*: Gera nomes de arquivos padronizados, como 2025_10_02_exp_001_results.csv.
 
 - *random_seed(seed=None)*: Define e registra a semente aleatória para garantir reprodutibilidade.
+
+  ## Módulo 7 - imlatex
+
+Acomodar em documentos *latex* imagens. 
+
+**Principais funcionalidades:**
+
+- *generate_subplots(imagens, ncols)*:  Gerar em *latex* o código para o posicionamento de subplots (figuras lado a lado), incluindo as legendas individuais e a legenda principal que corresponde ao grupo de gráficos. A função recebe um conjunto de imagens e o número de colunas desejado.
+
+- *big_figure(imagem)*: Configurar um documento em latex, usando pacotes como afterpage, para garantir que a figura recebida ocupe exatamente uma página inteira e a numeração do documento volte ao normal depois.
+
+- mais ideias?
+
+  ## Módulo 8
+
+
+  ## Módulo 9
+
+
+  
