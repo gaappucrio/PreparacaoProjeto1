@@ -12,13 +12,19 @@ gaaplib/
 
 ├─ plot/	→ Geração padronizada de gráficos
 
-├─ text/	→ Geração de citações, LaTeX e relatórios
+├─ reflib/	→ Geração de citações, LaTeX e relatórios
 
 ├─ project/	→ Organização, automação e logs
 
 ├─ utils/	→ Funções auxiliares e conveniências gerais
 
-└─ 
+├─ imlatex/ → Acomodar em documentos *latex* imagens. 
+
+├─ url/ → Facilitar acesso a informação. 
+
+└─ equipdesign/ → Dimensionar equipamentos, acessórios e instrumentos industriais. 
+
+
 
 
 ## Módulo 1 - io
@@ -136,6 +142,8 @@ Acomodar em documentos *latex* imagens.
 - *big_figure(imagem)*: Configurar um documento em latex, usando pacotes como afterpage, para garantir que a figura recebida ocupe exatamente uma página inteira.
 
 ## Módulo 8 - url
+
+Facilitar acesso a informação. 
 
 - *QRcode_generator(string1, string2)*: Função que recebe uma string (link para um site) e retorna um QRCode com a extensão de imagem pedida pelo usuário. 
 
