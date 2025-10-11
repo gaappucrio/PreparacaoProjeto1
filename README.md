@@ -133,9 +133,7 @@ Acomodar em documentos *latex* imagens.
 
 - *generate_subplots(imagens, ncols)*:  Gerar em *latex* o código para o posicionamento de subplots (figuras lado a lado), incluindo as legendas individuais e a legenda principal que corresponde ao grupo de gráficos. A função recebe um conjunto de imagens e o número de colunas desejado.
 
-- *big_figure(imagem)*: Configurar um documento em latex, usando pacotes como afterpage, para garantir que a figura recebida ocupe exatamente uma página inteira e a numeração do documento volte ao normal depois.
-
-- mais ideias?
+- *big_figure(imagem)*: Configurar um documento em latex, usando pacotes como afterpage, para garantir que a figura recebida ocupe exatamente uma página inteira.
 
 ## Módulo 8 - url
 
@@ -143,10 +141,15 @@ Acomodar em documentos *latex* imagens.
 
 - *short_link(string)*: Função que recebe um link e retorna o mesmo mais curto.
 
--  mais ideias?
 
+## Módulo 9 - equipdesign
 
-## Módulo 9 
+Dimensionar equipamentos, acessórios e instrumentos industriais. 
 
+**Principais funcionalidades:**
+
+- *tub_design*: Dadas as condições de processo (vazão e densidade), dimensionar a tubulação.
+
+- *PSV_design*: Dadas as condições de processo (vazão, pressão, temperatura), dimensionar a vávula PSV. 
 
   
