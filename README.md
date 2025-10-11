@@ -16,7 +16,9 @@ gaaplib/
 
 ├─ project/	→ Organização, automação e logs
 
-└─ utils/	→ Funções auxiliares e conveniências gerais
+├─ utils/	→ Funções auxiliares e conveniências gerais
+
+└─ 
 
 
 ## Módulo 1 - io
