@@ -73,7 +73,7 @@ Simplificar a leitura, validação e conversão de dados experimentais ou simula
 
 - *save_plot(fig, name, formats=('png','pdf','svg'))*: Salva a figura em múltiplos formatos, com nomes e metadados consistentes.
 
-## Módulo 4 - text
+## Módulo 4 - reflib
 
 Geração de citações, LaTeX e relatórios.
 
