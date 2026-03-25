@@ -40,6 +40,3 @@ def calcular_rendimento():
 
     except ValueError:
         print("Erro: Por favor, insira apenas números (use ponto em vez de vírgula).")
-
-# Executa a função
-# calcular_rendimento()
